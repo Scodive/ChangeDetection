@@ -71,8 +71,9 @@ pm2 save
 
 The database will be created automatically on first run, including tables for:
 - users (user information)
+  id, email, password, created_date, membership_level
 - monitoring_tasks (monitoring tasks)
-- membership_levels (membership tiers)
+  id, email, url, monitering_type, content, start_time, status, last_check_time, last_change_time, change_content, label, read_status
 
 ### 3. Environment Configuration
 
