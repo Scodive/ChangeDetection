@@ -55,7 +55,7 @@ web-content-monitor/
 
 ```bash
 # Clone the repository
-git clone [[repository-url]](https://github.com/Scodive/ChangeDetection.git)
+git clone https://github.com/Scodive/ChangeDetection.git
 cd ChangeDetection
 
 # Install dependencies
