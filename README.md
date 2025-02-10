@@ -34,6 +34,7 @@ web-content-monitor/
 │   ├── app.js
 │   └── webpages.db
 └── package.json
+└── .env.example
 ```
 
 ## Tech Stack
