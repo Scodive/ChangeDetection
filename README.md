@@ -1,6 +1,8 @@
 # ChangeDetection - A Web Content Monitor Chrome Extension
 A powerful Chrome extension for monitoring web page content changes and notifying users in real-time.
 
+<img width="253" alt="image" src="https://github.com/user-attachments/assets/bbfd6bea-6344-4bf3-a6f6-e8b12685be28" />
+
 ## Features
 
 - 🔍 Support for full-page and partial content monitoring
