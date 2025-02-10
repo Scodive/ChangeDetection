@@ -21,7 +21,10 @@ web-content-monitor/
 │   │   ├── popup.css
 │   │   └── popup.js
 │   ├── icons/
-│   │   └── image.png
+│   │   └── icon.png
+│   │   └── icon16.png
+│   │   └── icon48.png
+│   │   └── icon128.png
 │   └── manifest.json
 ├── server/
 │   ├── app.js
@@ -47,8 +50,8 @@ web-content-monitor/
 
 ```bash
 # Clone the repository
-git clone [repository-url]
-cd web-content-monitor
+git clone [[repository-url]](https://github.com/Scodive/ChangeDetection.git)
+cd ChangeDetection
 
 # Install dependencies
 npm install
@@ -195,4 +198,4 @@ Special thanks to all contributors and the open-source community.
 
 ---
 
-For more information or support, please open an issue or contact the maintainers.
+For more information or support, please open an issue or contact the maintainers (hjiangbg@connect.ust.hk).
