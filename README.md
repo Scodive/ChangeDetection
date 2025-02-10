@@ -12,7 +12,7 @@ A powerful Chrome extension for monitoring web page content changes and notifyin
 - 📊 Real-time task status display
 
 
- <img width="190" alt="image" src="https://github.com/user-attachments/assets/793451b4-9691-4a6a-bbb0-24a739a49678" /> <img width="190" alt="image" src="https://github.com/user-attachments/assets/b2e72c4d-c2fc-4052-8aa5-3b7314e082ae" /> <img width="190" alt="image" src="https://github.com/user-attachments/assets/2a456e1f-9eb6-448f-a4a4-7b6ff494b6dd" /> <img width="190" alt="image" src="https://github.com/user-attachments/assets/87e8540c-d472-4e68-a2eb-845ca8164176" /> <img width="190" alt="image" src="https://github.com/user-attachments/assets/d4d1ac59-c981-46c8-af41-449f50b3b38c" /> 
+ <img width="190" alt="image" src="https://github.com/user-attachments/assets/793451b4-9691-4a6a-bbb0-24a739a49678" /> <img width="190" alt="image" src="https://github.com/user-attachments/assets/b2e72c4d-c2fc-4052-8aa5-3b7314e082ae" /> <img width="190" alt="image" src="https://github.com/user-attachments/assets/2a456e1f-9eb6-448f-a4a4-7b6ff494b6dd" /> <img width="190" alt="image" src="https://github.com/user-attachments/assets/87e8540c-d472-4e68-a2eb-845ca8164176" /> 
 
 
 ## Project Structure
