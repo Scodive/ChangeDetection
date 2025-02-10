@@ -1,17 +1,21 @@
-# ChangeDetection - A Web Content Monitor Chrome Extension
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/7864c805-1083-45cb-bfd2-bde9c7f7c746" /># ChangeDetection - A Web Content Monitor Chrome Extension
 A powerful Chrome extension for monitoring web page content changes and notifying users in real-time.
-
-<img width="253" alt="image" src="https://github.com/user-attachments/assets/bbfd6bea-6344-4bf3-a6f6-e8b12685be28" />
 
 ## Features
 
 - 🔍 Support for full-page and partial content monitoring
+<img width="241" alt="image" src="https://github.com/user-attachments/assets/b2e72c4d-c2fc-4052-8aa5-3b7314e082ae" />
 - 📧 Email notifications for content changes
 - 👥 User account system
+<img width="231" alt="image" src="https://github.com/user-attachments/assets/793451b4-9691-4a6a-bbb0-24a739a49678" />
 - 💎 Membership tiers (Normal/Pro)
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/d4d1ac59-c981-46c8-af41-449f50b3b38c" /> 
 - 🌐 Multi-language support (English/Chinese)
 - 📝 Task labels and notes
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/2a456e1f-9eb6-448f-a4a4-7b6ff494b6dd" />
 - 📊 Real-time task status display
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/87e8540c-d472-4e68-a2eb-845ca8164176" />
+
 
 ## Project Structure
 
