@@ -81,16 +81,18 @@ The database will be created automatically on first run, including tables for:
 
 ### 3. Environment Configuration
 
-Create a `.env` file:
-
-```env
-NODE_ENV=production
-PORT=3000
-SMTP_HOST=your-smtp-host
-SMTP_USER=your-smtp-user
-SMTP_PASS=your-smtp-password
-STRIPE_KEY=your-stripe-key
+1. Copy `.env.example` to `.env`:
+```bash
+cp .env.example .env
 ```
+
+2. Update the `.env` file with your actual values:
+- SMTP credentials for email notifications
+- Stripe API key for payment processing
+- Server host and port
+- Database path
+- API base URL
+
 
 ### 4. Chrome Extension Installation
 
