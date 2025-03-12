@@ -1,4 +1,4 @@
-# ChangeDetection - A Web Content Monitor Chrome Extension
+# ChangeDetection - A Web Content Monitor Chrome Extension <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScodive%2FChangeDetection&count_bg=%232B8DD9&title_bg=%237834C6&icon=github.svg&icon_color=%23E7E7E7&title=Page+Viewers&edge_flat=false"/> <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/Scodive/ChangeDetection">
 A powerful Chrome extension for monitoring web page content changes and notifying users in real-time.
 
 ## Features
